@@ -1,6 +1,6 @@
 # Bot.LuisPrompt
 
-[![Build status](https://ci.appveyor.com/api/projects/status/02mi9wwval2610xd?svg=true)](https://ci.appveyor.com/project/ObjectivityAdminsTeam/bot-common-dialogs)
+[![Build status](https://ci.appveyor.com/api/projects/status/40fwuu4toi6femag?svg=true)](https://ci.appveyor.com/project/ObjectivityAdminsTeam/bot-luisprompt)
 
 A mixture of choice and confirm prompt. Capable of detecting not only Yes/No responses but also several others using LUIS service.
 
